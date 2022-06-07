@@ -1,2 +1,2 @@
 # Intergrupo-project
-pagina de intergrupo similar ime juan jose pineda sanchez grupo 2 fullstackdev
+This was one of my first attempts to learn how to use different tools like HTMLL-CSS by making a static web page.
